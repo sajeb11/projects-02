@@ -1,0 +1,25 @@
+.nav-link {
+        color: #fff !important;
+};
+.link.active, .navbar-nav .nav-link.show {
+    color: #fff !important;
+}
+.d-block{
+    max-height: 550px !important;
+}
+.navbar-brand {
+    color: #ffc107fa !important;
+    font-size: 25px !important;
+}
+.img{
+    max-height: 400px !important;
+    margin: auto !important;
+    border-radius: 10px !important;
+}
+.carousel-control-next{
+    position: relative !important;
+}
+
+
+
+
